@@ -1,0 +1,10 @@
+Rudder/Body 		x2
+Rudder/Mount 		x2 -- affix to platform/islands
+Rudder/Gears
+Rudder/PivotPoints 	x2
+Platform/Islands 	x6
+Platform/Shoes 		x6 (Optional)
+Motor/Mount 		   -- fit to motor
+Controller/RCReceiver	ref: ShoppingList/Controller/Prebuilt
+Controller/RCController	ref: ShoppingList/Controller/Prebuilt
+

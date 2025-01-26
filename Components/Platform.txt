@@ -1,9 +1,9 @@
-Plastic (plexiglass? PVC?) sheet: 
+Base: Plastic (plexiglass? PVC?) sheet: 
 	Robust
 	Approx (50cm x 50cm) - (75x75cm)
 	
-Studs: 3D print
-Wire cinching: To fix studs to pontoons
+Islands: 3D print (arches to fit pontoons)
+Wire cinching: To fix islands to pontoons
 Zip ties: To mount platform to studs 
 	Perhaps an intermediary? Bolt platform to 'shoes' which interface more cleanly with studs
 Nuts, bolts, washers to mount steering, drivesystem, controls, hardpoints

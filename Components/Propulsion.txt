@@ -10,3 +10,4 @@ Drive shaft angling: U-joint or similar
 Drive shaft stabilizers: Bearing mounts
 Drive system Weatherproofing: Tupperware
 Drive shaft weatherproofing: PVC pipe
+Drive shaft propeller-side stabilizer: cutoff strip of material from platform/base

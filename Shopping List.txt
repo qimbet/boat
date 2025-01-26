@@ -1,0 +1,17 @@
+Rudder/struts			x length? -- ref: same for motor/driveshaft
+Platform/base			x (50x50) - (75x75)cm
+Platform/cinching		x 6
+Platform/zipties		x 1 bag lol
+Platform/NutsBoltsWashers 	x?
+Motor/motor 
+Motor/propeller 		(choose ref: motor power)
+Motor/driveShaft		x length? -- ref: same for rudder/struts
+Motor/uJoint 			(can print? Probably best to buy this)
+Motor/bearings 			x2
+Motor/weatherproofing		tupperware (sizing?) (Several separate?)
+Power/Batteries			> 1
+Power/converter			TBD
+Power/ESC			
+Pontoons/PVC			x(6-8)'
+Pontoons/endcaps
+Controller/prebuilt		price-dependent
