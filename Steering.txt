@@ -1,0 +1,24 @@
+Rudder body: 3D Print
+Rudder mount: 3D Print (hybrid? Mount metal bar as pivot for rudders?)
+Rudders mount to 'islands' on the tail of the pontoons (ref: platform/studs)
+Rudder control: servo motor (KV4228-N2B00?, OR KV4239-N2B010)
+Torque adjustment: Gear to fit
+Steering mechanism: 
+
+
+		|
+		|
+		|
+		o
+	o	|	o
+	|	|	|
+	o-------o-------o
+	|		|			
+	V		V
+	V		V
+	V		V
+	
+LEGEND:
+|  <-- strut
+o  <-- pivot point
+V  <-- rudder 

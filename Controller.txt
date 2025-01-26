@@ -1,0 +1,9 @@
+Mimic control system from RC vehicle. 
+Look into what exists 'off the shelf' for RC boats. 
+
+CONTRAST: 
+Off-the-shelf assembly: $
+
+RC Receiver: ~$15
+RC Controller: $
+Logic controller: Microcontroller, inventory

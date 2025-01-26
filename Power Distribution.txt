@@ -1,0 +1,18 @@
+LiPo Batteries are hobby standard
+Common: 7-12V, 6000mAh, $50 for a 2-pack (wire in parallel?)
+
+DC/DC power converter to step up DC voltage
+Electronic speed controller 
+
+
+
+Sketching for 2 hours water time per excursion
+
+Envelope (hourly): 
+700 mA to steering (servo load)
+300 mA to radio communication
+500 mA buffer power (contingency)
+1500 mA propulsion (2nd battery would route directly to prop --> 4500mA)
+	Assuming a current load of 1 amp, DC/DC conversion
+	1 battery:   1.5 A = 10.5V
+	2 batteries: 4.5 A = 31.5V
