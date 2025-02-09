@@ -1,10 +1,57 @@
 Motor Mount: 3D Print, custom to motor envelope
 Motor: MB-301200-51R14 (rated up to 120VDC, will run at lower)
-Propeller: 3D print or buy (probably best to buy -- this would be very sensitive to friction)
-	- Propellor should be fit to motor
-		- High RPM fits best with a low-pitch, small propeller
-		- Low RPM fits best with high pitch, larger prop
-	
+	- 40mm motor diameter is best for a 4' boat
+		- https://www.goodiesrc.com/how-do-you-size-an-rc-boat-motor/
+		- We're not a 'boat' per se, since we don't have a hull. We're also not optimizing for speed/efficiency as this point, so we can probably get by with the suggested 40mm (assuming worst-case scenario of pontoonns = inefficient)
+
+Propeller: Best to buy at first -- imperfections here have large impacts on propulsion efficiency
+
+	- Propellor parameters
+		- Pitch: 
+			- Angle of propeller blade relative to rotor perpendicular
+			- Closely correlated to motor operating range (RPM)
+			- Higher Pitch = More thrust per rotation, requires more torque
+			- Higher Pitch better for low RPM motors
+		- Rake:
+			- 'convexity' of propeller
+			- Low rake is better for heavier, slower boats
+		- Cupping:
+			- Propellers can cup at the trail edge of propellers, or distal edge
+			- Trail edge cupping: Functional increase to Pitch
+			- Distal edge cupping: Functional increase to Rake
+		- Blade Count: 
+			- Low blade counts (e.g. 1, 2) are more efficient (how?)
+			- Higher blade count decreases vibration
+			- More blades have higher thrust, less slip
+			GENERAL THEMES:
+				- Less blades: Racing boats
+				- More blades: tow sports, rough water, industrial	
+		- Operating RPM:
+			- Generally, low RPM is best for larger, high-pitch propellers
+			- High RPM fits best with a low-pitch, small propeller
+
+THRUST REQUIREMENTS: 
+	- Assuming two 5" pontoons, fully submerged, 0.5 m/s water: 
+		https://www.omnicalculator.com/physics/drag-equation
+		Density of water: 1000kg/m3
+		Velocity: 0.5 m/s (drag increases nonlinearly with speed)
+		Drag Coefficient: 0.82 per long cylinder
+		Area: 2*0.0126m^2 (two pontoons)
+		Drag Force: 2* 1.29  ==> 2.58N
+		
+Thrust Projections:
+Propeller: 
+	https://www.amazon.ca/gp/product/B07FKB4QGW?psc=1
+		- Pitch: 1.7 (units?)
+		- Diameter: 67mm, 2.6"
+		- Height: 24mm
+		- Material: Aluminum alloy (copper?)
+		- Shaft: 1/4", 6.35mm
+		- Blades: 4	 
+Paraphernilia: 
+	- Propeller lug nut
+	- Propeller drive dog
+ 	
 Drive shaft: Aluminum rod
 Drive shaft angling: U-joint or similar
 Drive shaft stabilizers: Bearing mounts
