@@ -1,10 +1,28 @@
 Motor Mount: 3D Print, custom to motor envelope
+
+---------------------------------------------------------------------
+
+        MOTOR DETAILS:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 Motor: MB-301200-51R14 (rated up to 120VDC, will run at lower)
 	- 40mm motor diameter is best for a 4' boat
 		- https://www.goodiesrc.com/how-do-you-size-an-rc-boat-motor/
 		- We're not a 'boat' per se, since we don't have a hull. We're also not optimizing for speed/efficiency as this point, so we can probably get by with the suggested 40mm (assuming worst-case scenario of pontoonns = inefficient)
 
-Propeller: Best to buy at first -- imperfections here have large impacts on propulsion efficiency
+Parameters: 
+	- No-Load speed:  
+		- Speed of motor under a certain voltage, no load
+		- got booty called homie sry duty calls
+
+---------------------------------------------------------------------
+
+	PROPELLER DETAILS:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Propeller: Best to buy for first iterations -- imperfections here have large impacts on propulsion efficiency
 
 	- Propellor parameters
 		- Pitch: 
