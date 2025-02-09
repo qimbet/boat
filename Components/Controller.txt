@@ -1,6 +1,31 @@
 Mimic control system from RC vehicle. 
 Look into what exists 'off the shelf' for RC boats. 
 
+Wireless Communication Protocols
+- Wi-Fi (2.4 GHz & 5 GHz bands)
+  Range: 30-100m (indoor), up to 300m (outdoor)
+  Frequency: 2.4GHz and 5GHz bands
+  Data Rate: Up to 1.2 Gbps (802.11ac)
+  Pros: Easy to program & implement, cheap
+  Cons: Higher power consumption, higher latency
+
+- LoRa/LoRaWAN
+  Range: 2-15km (urban), up to 45km (line of sight)
+  Frequency: Various (433MHz, 868MHz, 915MHz)
+  Data Rate: 0.3-50 Kbps
+  Pros: Long range, low power consumption, obstacle penetration
+  Cons: Low data-rate, complex programming, bandwidth low for RC
+
+- Radio Frequency (433/915MHz)
+  Range: 100m-1km
+  Frequency: 433MHz or 915MHz
+  Data Rate: 0.5-100 Kbps
+  Pros: Cheap? Low power consumption, low latency
+  Cons: Low data-rate
+
+Seems like the best fit for control is RF as it can be cheap, reliable and low power, which lets us have longer mission-time.
+When we add telemetry we can batch transmissions in short windows to reduce power consumption, but you never want to do this with your control mechanism.
+
 CONTRAST: 
 Off-the-shelf assembly: $
 
