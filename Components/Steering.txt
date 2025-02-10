@@ -1,3 +1,32 @@
+About Rudders:
+
+https://www.building-model-boats.com/rc-boat-rudder.html
+	Two (separate, equivalent) rules of thumb exist for hobby boats:
+		- 5/4 square inches rudder area per foot length of boat
+		- Rudder area should be 10% of underwater boat area 
+	Long boats are less responsive to steering
+	Rudder angle is best to stay within 25-30 degrees
+
+Rudders are most effective directly behind prop wash
+
+Two types of rudders: 
+	Non-balanced:
+		The axis of rotation is at the edge of the rudder
+	Balanced: 
+		The axis of rotation is partway through the length of the rudder
+
+	Balanced rudders are more effective:
+		More prop wash is caught, making it more efficient. 
+		The holding force on the rudder is reduced, making it easier on the servo
+
+Rudder area can build into 'length' or 'depth'. 
+	+ Depth is suggested as a better parameter through which to boost area, since it takes less torque to turn. 
+	+ Deep rudders contribute to vessel stability. 
+	- Deep rudders place more strain on the shaft
+
+Keep the trailing edge as thin as possible
+
+
 Rudder body: 3D Print
 Rudder mount: 3D Print (hybrid? Mount metal bar as pivot for rudders?)
 Rudders mount to 'platform/islands' on the tail of the pontoons
