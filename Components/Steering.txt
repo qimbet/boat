@@ -4,6 +4,7 @@ https://www.building-model-boats.com/rc-boat-rudder.html
 	Two (separate, equivalent) rules of thumb exist for hobby boats:
 		- 5/4 square inches rudder area per foot length of boat
 		- Rudder area should be 10% of underwater boat area 
+			- For two 4' pontoons with radius 2.5" --> 13sq. inches rudder area
 	Long boats are less responsive to steering
 	Rudder angle is best to stay within 25-30 degrees
 
