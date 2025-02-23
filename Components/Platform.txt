@@ -2,7 +2,7 @@ SIZING:
 
 600 mm widthspan
 	pontoon island edges align at 600mm edges
-
+	Using m6 screws -- 6mm diameter
 
 Base: Plastic (plexiglass? PVC?) sheet: 
 	Robust
