@@ -1,8 +1,28 @@
+SIZING: 
+
+600 mm widthspan
+	pontoon island edges align at 600mm edges
+
+
 Base: Plastic (plexiglass? PVC?) sheet: 
 	Robust
-	Approx (50cm x 50cm) - (75x75cm)
 	
-Islands: 3D print (arches to fit pontoons)
+Islands:
+	101.6mm squared area
+	3D print (arches to fit pontoons)
+	
+
+Island bolt sockets: 
+
+	6.5mm diameter
+	Radial:
+		quarters a circle of r=77mm
+			45 degrees from xy axes
+		circle center at 50.8mm from edge
+	Cartesian: 
+		messy lol just don't	
+
+
 Wire cinching: To fix islands to pontoons
 Zip ties: To mount platform to studs 
 	Perhaps an intermediary? Bolt platform to 'shoes' which interface more cleanly with studs

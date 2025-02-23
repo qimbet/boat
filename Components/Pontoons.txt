@@ -5,6 +5,35 @@ Endcaps for PVC
 PVC cement for endcaps + brush
 	If sinks; fill with lifejacket foam
 	
+Archimedes' Principle: Flotation is (proportionate to?) the amount of water an object displaces
+We can find the expected flotation of an object from its relative density to water
+
+Calculations: 
+
+TAKING: 
+Pontoons volume:
+	2 pontoons
+	5 inch diameter
+	4 foot length (48 inches)
+
+	total volume: 
+		2 * ( 3.1415 * (2.5)^2 ) * 48
+		= 1885 cubic inches 
+
+Pontoons weight (taken from online source):
+	21.84 lbs
+
+Weight of 1885 cubic inches water: 
+	75 lbs
+
+Pontoons are ~1/3 the weight of comparable water
+
+	
+
+		--> Can calculate draught from this
+
+
+
 Front hull to cut back on drag during movement - DELAY
 Sea Anchors to stop movement during winching - DELAY
 

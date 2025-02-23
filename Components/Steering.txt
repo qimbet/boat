@@ -1,12 +1,18 @@
 About Rudders:
 
+
+***********************************************************************************
+
+					SKEG & STRUTS:
+
+***********************************************************************************
+
 Pontoon width = 5" = 127mm
 	--> Assume a minimum of  1/2 pontoon submersion during unloaded operation
 	--> 63.5mm pontoon submersion
 	We want 110 mm of rudder submersion at any time during regular operation
 	It is fine for the rudder to extend above the pontoon half-mark
 		This gives the vessel stronger steering capacity as its weight increases
-		Beneficial as a hedge against inertia
 
 	Rudder bottom should be (110 + 63.55)mm below the top of the pontoons
 		173.55mm <-- pontoon top to skeg bottom
@@ -15,6 +21,9 @@ Pontoon width = 5" = 127mm
 		(RudderBottom - PontoonDiameter)
 		46.55mm
 		--> round to 50 for ease of use
+
+Skeg bottom to pontoon top: 
+177 mm
 
 
 
@@ -41,7 +50,7 @@ Pivot Slot:
 	Length: 15mm
 
 
-<***********************************************************************************
+***********************************************************************************
 
                                         RESEARCH:
 
