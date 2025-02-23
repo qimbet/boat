@@ -1,5 +1,28 @@
 About Rudders:
 
+Pontoon width = 5" = 127mm
+	--> Assume a minimum of  1/2 pontoon submersion during unloaded operation
+	--> 63.5mm pontoon submersion
+	We want 110 mm of rudder submersion at any time during regular operation
+	It is fine for the rudder to extend above the pontoon half-mark
+		This gives the vessel stronger steering capacity as its weight increases
+		Beneficial as a hedge against inertia
+
+	Rudder bottom should be (110 + 63.55)mm below the top of the pontoons
+		173.55mm <-- pontoon top to skeg bottom
+
+	Skeg wing should be (173.55 - 127)mm from top of pontoons
+		(RudderBottom - PontoonDiameter)
+		46.55mm
+		--> round to 50 for ease of use
+
+
+
+
+
+
+
+
 ***********************************************************************************
 
 					CAD NOTES:
@@ -7,7 +30,7 @@ About Rudders:
 ***********************************************************************************
 
 Rudder parameters/dimensions:
-	Height: 110mm
+	Height: 110mm + makeup distance (fill all remaining space with rudder)
 	Length: 81mm
 		Before pivot midpoint: 30mm
 		After pivot midpoint:  51mm
