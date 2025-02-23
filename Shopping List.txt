@@ -1,17 +1,25 @@
-Rudder/struts			x length? -- ref: same for motor/driveshaft
-Platform/base			x (50x50) - (75x75)cm
-Platform/cinching		x 6
-Platform/zipties		x 1 bag lol
-Platform/NutsBoltsWashers 	x?
-Motor/motor 
-Motor/propeller 		(choose ref: motor power)
-Motor/driveShaft		x length? -- ref: same for rudder/struts
-Motor/uJoint 			(can print? Probably best to buy this)
-Motor/bearings 			x2
-Motor/weatherproofing		tupperware (sizing?) (Several separate?)
-Power/Batteries			> 1
-Power/converter			TBD
-Power/ESC			
-Pontoons/PVC			x(6-8)'
-Pontoons/endcaps
-Controller/prebuilt		price-dependent
+Rudder
+	Axle			1.5mm x 15mm (editable), length:
+	Bearings			x2
+
+Platform
+	Base			x (50x50) - (75x75)cm
+	Cinching		x 6
+	NutsBoltsWashers 	x4 per island
+
+Motor
+	Motor			shop around
+	propeller 		(choose ref: motor power)
+	driveShaft		x length? -- ref: same for rudder/struts
+	bearings 			x2
+	weatherproofing		tupperware (sizing?) (Several separate?)
+
+Power
+	Batteries			> 1
+	Converter			TBD
+	ESC			
+
+Pontoons
+	PVC			x(6-8)'
+	Endcaps
+
