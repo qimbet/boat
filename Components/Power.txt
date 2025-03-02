@@ -1,3 +1,10 @@
+
+POWER DEMANDS:
+	------------------------------------
+	MAIN MOTOR: 
+	
+--------------------------------------------
+
 LiPo Batteries are hobby standard
 Common: 7-12V, 6000mAh, $50 for a 2-pack (wire in parallel?)
 

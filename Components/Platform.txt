@@ -1,27 +1,18 @@
-SIZING: 
 
-600 mm widthspan
-	pontoon island edges align at 600mm edges
-	Using m6 screws -- 6mm diameter
+STANDARD SIZING:
+	------------------------------------
+	101.6mm STANDARD SQUARE SURFACE 
+	77  mm 	MOUNT CIRCLE RADIUS
+	6.5 mm  BOLT DIAMETER
+--------------------------------------------
+
+BOAT SIZING:
+	------------------------------------
+	600 mm WIDTH
+	
 
 Base: Plastic (plexiglass? PVC?) sheet: 
-	Robust
-	
-Islands:
-	101.6mm squared area
-	3D print (arches to fit pontoons)
-	
-
-Island bolt sockets: 
-
-	6.5mm diameter
-	Radial:
-		quarters a circle of r=77mm
-			45 degrees from xy axes
-		circle center at 50.8mm from edge
-	Cartesian: 
-		messy lol just don't	
-
+	Robust	
 
 Wire cinching: To fix islands to pontoons
 Zip ties: To mount platform to studs 
@@ -29,4 +20,4 @@ Zip ties: To mount platform to studs
 Nuts, bolts, washers to mount steering, drivesystem, controls, hardpoints
 
 
-2nd story (gives a lot more hardpoint room, looks cleaner - DELAY
+DELAY: 2nd story: gives a lot more hardpoint room. Can reuse submerged wing shape to mount

@@ -1,14 +1,26 @@
-PVC pipe
-	As close to 5" diameter as possible
-	3'-4' length 
-Endcaps for PVC
-PVC cement for endcaps + brush
-	If sinks; fill with lifejacket foam
+
+PONTOONS MEASUREMENTS:
+	------------------------------------
+
+	PVC pipe: 8' ==  2438mm total material length
+   		  4' == 1219mm
+	Current drawings built for 5" diameter pontoons	
+ 
+--------------------------------------------
+
+PONTOONS MATERIALS:
+	------------------------------------
 	
+	4x endcaps for PVC
+	8' PVC
+		
+	DELAY AS NECESSARY: lifjackets or other buoyant material to fill pontoons (if sinks)
+	
+--------------------------------------------
+
+
 Archimedes' Principle: Flotation is (proportionate to?) the amount of water an object displaces
 We can find the expected flotation of an object from its relative density to water
-
-Calculations: 
 
 TAKING: 
 Pontoons volume:
@@ -28,10 +40,7 @@ Weight of 1885 cubic inches water:
 
 Pontoons are ~1/3 the weight of comparable water
 
-	
-
 		--> Can calculate draught from this
-
 
 
 Front hull to cut back on drag during movement - DELAY

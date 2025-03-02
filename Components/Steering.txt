@@ -1,6 +1,5 @@
 About Rudders:
 
-
 ***********************************************************************************
 
 					SKEG & STRUTS:
@@ -12,7 +11,6 @@ Pontoon width = 5" = 127mm
 	--> 63.5mm pontoon submersion
 	We want 110 mm of rudder submersion at any time during regular operation
 	It is fine for the rudder to extend above the pontoon half-mark
-		This gives the vessel stronger steering capacity as its weight increases
 
 	Rudder bottom should be (110 + 63.55)mm below the top of the pontoons
 		173.55mm <-- pontoon top to skeg bottom
@@ -22,14 +20,7 @@ Pontoon width = 5" = 127mm
 		46.55mm
 		--> round to 50 for ease of use
 
-Skeg bottom to pontoon top: 
-177 mm
-
-
-
-
-
-
+		Extend rudder height by 50mm -- fill rear wing
 
 
 ***********************************************************************************
@@ -48,7 +39,7 @@ Rudder parameters/dimensions:
 Pivot Slot:
 	Width:  1.5mm
 	Length: 15mm
-
+	Min depth: 220 (173.55mm topToSkeg + ~50mm lucky distance)  
 
 ***********************************************************************************
 
@@ -82,28 +73,8 @@ Rudder area can build into 'length' or 'depth'.
 
 Keep the trailing edge as thin as possible
 
-
 Rudder body: 3D Print
 Rudder mount: 3D Print (hybrid? Mount metal bar as pivot for rudders?)
-Rudders mount to 'platform/islands' on the tail of the pontoons
 Rudder control: servo motor (KV4228-N2B00?, OR KV4239-N2B010)
 Torque adjustment: Gear to fit
-Steering mechanism: 
 
-
-		|
-		|
-		|
-		o
-	o	|	o
-	|	|	|
-	o-------o-------o
-	|		|			
-	V		V
-	V		V
-	V		V
-	
-LEGEND:
-|  <-- strut
-o  <-- pivot point
-V  <-- rudder 
