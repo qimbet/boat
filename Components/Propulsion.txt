@@ -5,16 +5,36 @@ Motor Mount: 3D Print, custom to motor envelope
         MOTOR DETAILS:
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Add a temperature sensor to motor/battery to warn of overtemps
 
-Motor: MB-301200-51R14 (rated up to 120VDC, will run at lower)
-	- 40mm motor diameter is best for a 4' boat
-		- https://www.goodiesrc.com/how-do-you-size-an-rc-boat-motor/
-		- We're not a 'boat' per se, since we don't have a hull. We're also not optimizing for speed/efficiency as this point, so we can probably get by with the suggested 40mm (assuming worst-case scenario of pontoonns = inefficient)
+
+HOW TO SIZE A MOTOR:
+Assume we're aiming for 1.5 m/s (average walking speed)
+
+Drag coefficient for a cylinder is: 0.82
+	drag force = 1/2 * dragCoeff * Area * fluidDensity * velocity^2
+	ftb drag force = 17.5 newtons
+
+Power (wattage) = velocity * force
+		= 1.5 * 17.5
+
+Propeller efficiencies peak near 0.8
+	round down to 0.7 in our case lol
+
+>> we need 37.5 Watts coming from our motor
+	some flexibility allowed as we're fuzzy on some numbers (drag coefficient, propeller efficiency). Mismatches in wattage will only affect speed.
+
+
+---------------------------------------------------------------------
+
+40mm motor diameter is best for a 4' boat
+	- https://www.goodiesrc.com/how-do-you-size-an-rc-boat-motor/
+	- We're not a 'boat' per se, since we don't have a hull. We're also not optimizing for speed/efficiency as this point, so we can probably get by with the suggested 40mm (assuming worst-case scenario of pontoonns = inefficient)
 
 Parameters: 
 	- No-Load speed:  
 		- Speed of motor under a certain voltage, no load
-		- got booty called homie sry duty calls
+
 
 ---------------------------------------------------------------------
 
@@ -48,14 +68,6 @@ Propeller: Best to buy for first iterations -- imperfections here have large imp
 			- Generally, low RPM is best for larger, high-pitch propellers
 			- High RPM fits best with a low-pitch, small propeller
 
-THRUST REQUIREMENTS: 
-	- Assuming two 5" pontoons, fully submerged, 0.5 m/s water: 
-		https://www.omnicalculator.com/physics/drag-equation
-		Density of water: 1000kg/m3
-		Velocity: 0.5 m/s (drag increases nonlinearly with speed)
-		Drag Coefficient: 0.82 per long cylinder
-		Area: 2*0.0126m^2 (two pontoons)
-		Drag Force: 2* 1.29  ==> 2.58N
 		
 Thrust Projections:
 Propeller: 
