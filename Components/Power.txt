@@ -22,6 +22,27 @@ DC/DC power converter to step up DC voltage
 Sketching for 2 hours water time per excursion
 
 -----------------------------------------------------
+
+NOTES:
+Car batteries average 12V
+	Car batteries are readily available (especially in small-town/remote environments, as we hope to deploy into)
+	Lead-Acid batteries (esp. those designed for car ignitions) don't handle deep charge/discharge cycles well
+	LA car batteries float in the ~20 lbs range -- not excessive, but kind of heavy
+	LA car batteries are not suggested for maritime use, & contain many toxic chemicals
+	HOWEVER: offering users the ability to plug into a LA battery in emergency situations is a strong asset for saleability
+-----------------------------------------------------
+Solid Lead-Acid Batteries:
+	PRO:
+		Cheap
+		Can handle high discharge rates (great for systems that req. sudden bursts of energy)
+		Well-understood, established technology
+	CON:
+		Heavy (not an issue for maritime use tbh)
+		limited number of charge cycles, susceptible to degradation
+		Environmentally damaging (if not recycled properly)
+
+
+-----------------------------------------------------
 SECOND PROJECTION
 	Hourly power envelope:
 	3.5A @ 12V to motor - 42W
