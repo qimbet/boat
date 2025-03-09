@@ -7,6 +7,13 @@ POWER DEMANDS:
 The motor runs at 12V
 Outputting 55W (calculated below), we expect a current draw of roughly 4.5A/hour
 
+Mission time of 2hrs:
+	REQUIRED CAPACITY:
+	9Ah
+
+
+
+
 DEFINITION: 
 	c-rate: Multiplier indicative of the current it takes to discharge a battery over 1 hour
 	e.g.	C-rate of 1: 1 hour to fully charge/discharge a battery
@@ -31,6 +38,7 @@ Car batteries average 12V
 	LA car batteries are not suggested for maritime use, & contain many toxic chemicals
 	HOWEVER: offering users the ability to plug into a LA battery in emergency situations is a strong asset for saleability
 -----------------------------------------------------
+
 Solid Lead-Acid Batteries:
 	PRO:
 		Cheap
@@ -41,8 +49,29 @@ Solid Lead-Acid Batteries:
 		limited number of charge cycles, susceptible to degradation
 		Environmentally damaging (if not recycled properly)
 
-
 -----------------------------------------------------
+
+LiFePO battery (lithium lead-phosphate4)
+	PRO:
+		Best deep-cycle option
+		Widely available in marine, solar, RV markets
+		Safer than Lithium-ion
+	CON:
+		Expensive as hell ($550)
+		Overpowered: 100-300 Ah
+-----------------------------------------------------
+
+SEALED LEAD-ACID (SLA)
+	PRO:
+		Affordable (~$50)
+		Sealed -- leak-proof: safe for environmentally sensitive areas
+		Notoriously reliable
+		
+		
+-----------------------------------------------------
+POWER ENVELOPES:
+
+
 SECOND PROJECTION
 	Hourly power envelope:
 	3.5A @ 12V to motor - 42W

@@ -26,3 +26,6 @@ https://www.aliexpress.com/item/32866597923.html?algo_exp_id=5e24a0b2-c401-4405-
 Requirements:
 12V (or high enough storage capacity to warrant the transformer)
 
+https://www.canadiantire.ca/en/pdp/mk-12-volt-9ah-sla-battery-f2-terminal-0102072p.html
+	SLA battery
+	Parameters: SLA, 12V, >9 Ah

@@ -78,13 +78,7 @@ Propeller:
 		- Material: Aluminum alloy (copper?)
 		- Shaft: 1/4", 6.35mm
 		- Blades: 4	 
-Paraphernilia: 
-	- Propeller lug nut
-	- Propeller drive dog
+	Paraphernilia: 
+		- Propeller lug nut
+		- Propeller drive dog
  	
-Drive shaft: Aluminum rod
-Drive shaft angling: U-joint or similar
-Drive shaft stabilizers: Bearing mounts
-Drive system Weatherproofing: Tupperware
-Drive shaft weatherproofing: PVC pipe
-Drive shaft propeller-side stabilizer: cutoff strip of material from platform/base
