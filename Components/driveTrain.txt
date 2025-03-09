@@ -1,0 +1,34 @@
+
+SHAFT SIZE: 4mm
+
+---------------------------------------------------------------------
+
+        ANCHORING GEARS TO SHAFT:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+For small applications, glue (??) is sufficient as it has comparable strength to the shaft itself (unverified source for average adhesive shear strength: 1000 psi)
+	https://mentoredengineer.com/how-to-attach-gears-sprockets-and-pulleys-to-shafts/
+	
+Rough up the shaft before gluing to give better adhesion. Degrease & dry. 
+
+DRAWBACK TO ADHESIVE: 
+	The glue can push the gear mount offcenter!
+	This can be minimized by minimizing the difference between shaft size and gear inner radius, but not so much that the fitting scrapes off all the glue
+
+PRESS FIT:
+	Purely a pressure fit -- asssembled under heating of one element
+	Tried and true
+	Less accurate -- assumptions need to be made
+
+CROSS-DRILLED HOLES:
+	A hole is drilled in the driveshaft, and a spoke driven through. This is used as an anchor to turn a gear. 
+	Perhaps less suitable in a small-shaft/gear interface
+
+At our scale, Press Fit is (probably) the best target
+If too lose; use glue
+
+https://www.aliexpress.com/item/1005001538408571.html?algo_exp_id=9769aace-deb8-4a77-adb2-33b1a7cded80-0&pdp_ext_f=%7B%22order%22%3A%22115%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!CAD!3.70!1.45!!!2.53!0.99!%402101ef7017415071275468146e30dd!12000016510356162!sea!CA!0!ABX&curPageLogUid=9qJ2YGt4stqE&utparam-url=scene%3Asearch%7Cquery_from%3A
+	$1.45
+	SHAFT COMMUTATOR
+	
