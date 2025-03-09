@@ -1,0 +1,28 @@
+Propeller:
+	prop
+	lug nut
+	drive dog
+
+---------------------------------------------------------------------
+
+        MOTOR:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requirements:Output 37.5W
+
+https://www.aliexpress.com/item/1005003274705386.html?algo_exp_id=ef9541eb-bf3a-420a-96fe-011a17c7e986-10&pdp_ext_f=%7B%22order%22%3A%2216%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!CAD!13.64!4.
+
+^ RS550 VC
+https://www.foneacc-motion.com/Product/Johnson-Electric-RS-550-Motor-Replacement-Motor-12V-21000-RPM-High-Speed-550-555-Size-DC-Motor.html
+
+ex:
+https://www.aliexpress.com/item/32866597923.html?algo_exp_id=5e24a0b2-c401-4405-a0a2-3b832930b44c-9&pdp_ext_f=%7B%22order%22%3A%221245%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!CAD!11.09!1.45!!!7.58!0.99!%402101ea7117414944537046504e06d3!12000030501321662!sea!CA!0!ABX&curPageLogUid=xXJHPyDI4JjC&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+---------------------------------------------------------------------
+
+        BATTERY:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requirements:
+12V (or high enough storage capacity to warrant the transformer)
+

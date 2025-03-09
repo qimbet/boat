@@ -1,25 +1,46 @@
 
 POWER DEMANDS:
 	------------------------------------
-	MAIN MOTOR: 
-	
---------------------------------------------
+	MAIN MOTOR: 12V
+	------------------------------------
 
+The motor runs at 12V
+Outputting 55W (calculated below), we expect a current draw of roughly 4.5A/hour
+
+DEFINITION: 
+	c-rate: Multiplier indicative of the current it takes to discharge a battery over 1 hour
+	e.g.	C-rate of 1: 1 hour to fully charge/discharge a battery
+		C-rate of 2: 0.5 hours to fully charge/discharge a battery
+		C-rate of 0.5: 2 hours to fully charge/discharge a battery
+	
 LiPo Batteries are hobby standard
 Common: 7-12V, 6000mAh, $50 for a 2-pack (wire in parallel?)
 
 DC/DC power converter to step up DC voltage
-Electronic speed controller 
-
 
 
 Sketching for 2 hours water time per excursion
 
-Envelope (hourly): 
-700 mA to steering (servo load)
-300 mA to radio communication
-500 mA buffer power (contingency)
-1500 mA propulsion (2nd battery would route directly to prop --> 4500mA)
-	Assuming a current load of 1 amp, DC/DC conversion
-	1 battery:   1.5 A = 10.5V
-	2 batteries: 4.5 A = 31.5V
+-----------------------------------------------------
+SECOND PROJECTION
+	Hourly power envelope:
+	3.5A @ 12V to motor - 42W
+	0.3A @ 12(?)V to comms = 3.5W
+	0.7A @ 12V to steering = 8.5W
+
+	SUM: 54w
+	Round to 55W @ 12V	
+	Drawing 4.5A/hour
+
+	------------------------------------
+
+FIRST PROJECTION
+
+	Envelope (hourly): 
+	700 mA to steering (servo load)
+	300 mA to radio communication
+	500 mA buffer power (contingency)
+	1500 mA propulsion (2nd battery would route directly to prop --> 4500mA)
+		Assuming a current load of 1 amp, DC/DC conversion
+		1 battery:   1.5 A = 10.5V
+		2 batteries: 4.5 A = 31.5V
