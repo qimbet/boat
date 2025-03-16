@@ -1,23 +1,19 @@
 
-PONTOONS MEASUREMENTS:
-	------------------------------------
+---------------------------------------------------------------------
 
-	PVC pipe: 8' ==  2438mm total material length
-   		  4' == 1219mm
-	Current drawings built for 5" diameter pontoons	
+      MEASUREMENTS: 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+PVC pipe: 8' == 2438mm total material length
+ 	  4' == 1219mm
  
---------------------------------------------
 
-PONTOONS MATERIALS:
-	------------------------------------
-	
-	4x endcaps for PVC
-	8' PVC
-		
-	DELAY AS NECESSARY: lifjackets or other buoyant material to fill pontoons (if sinks)
-	
---------------------------------------------
+---------------------------------------------------------------------
 
+      FLOTATION
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 Archimedes' Principle: Flotation is (proportionate to?) the amount of water an object displaces
 We can find the expected flotation of an object from its relative density to water
@@ -46,6 +42,13 @@ Pontoons are ~1/3 the weight of comparable water
 NOTE: A lead-acid car battery averages 40lbs on average
 	SAY: We should include an extra 50lbs of leeway
 	This is to make the vessel adaptable to car batteries in 'emergency' situations
+
+
+---------------------------------------------------------------------
+
+     UPGRADES
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 Front hull to cut back on drag during movement - DELAY
 Sea Anchors to stop movement during winching - DELAY

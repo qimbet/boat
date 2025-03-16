@@ -1,5 +1,11 @@
 Motor Mount: 3D Print, custom to motor envelope
 
+Parts needed: 
+- Motor
+- Propeller
+- Propeller lug nut
+- Propeller drive dog
+
 ---------------------------------------------------------------------
 
         MOTOR DETAILS:
@@ -27,18 +33,7 @@ Propeller efficiencies peak near 0.8
 
 ---------------------------------------------------------------------
 
-40mm motor diameter is best for a 4' boat
-	- https://www.goodiesrc.com/how-do-you-size-an-rc-boat-motor/
-	- We're not a 'boat' per se, since we don't have a hull. We're also not optimizing for speed/efficiency as this point, so we can probably get by with the suggested 40mm (assuming worst-case scenario of pontoonns = inefficient)
-
-Parameters: 
-	- No-Load speed:  
-		- Speed of motor under a certain voltage, no load
-
-
----------------------------------------------------------------------
-
-	PROPELLER DETAILS:
+	PROPELLER PARAMETERS
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -67,18 +62,22 @@ Propeller: Best to buy for first iterations -- imperfections here have large imp
 		- Operating RPM:
 			- Generally, low RPM is best for larger, high-pitch propellers
 			- High RPM fits best with a low-pitch, small propeller
-
-		
-Thrust Projections:
-Propeller: 
-	https://www.amazon.ca/gp/product/B07FKB4QGW?psc=1
-		- Pitch: 1.7 (units?)
-		- Diameter: 67mm, 2.6"
-		- Height: 24mm
-		- Material: Aluminum alloy (copper?)
-		- Shaft: 1/4", 6.35mm
-		- Blades: 4	 
-	Paraphernilia: 
-		- Propeller lug nut
-		- Propeller drive dog
  	
+---------------------------------------------------------------------
+
+	PROPELLER CALCULATIONS:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Torque = Power (in Watts) / (angular velocity)
+	
+	angular velocity == 2pi/60 * RPM
+	We expect an approx Wattage ~= 45W
+	Using Torque from driveTrain.txt, we have an approx RPM of 550
+	
+	Torque =  Thrust * Radius 
+		Approx radius =	0.04m
+		Thrust = 17.5N 
+
+	Torque = 45 / (pi/30 * 550) =~ 0.8N 
+
