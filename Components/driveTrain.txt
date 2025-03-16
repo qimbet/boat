@@ -31,4 +31,32 @@ If too lose; use glue
 https://www.aliexpress.com/item/1005001538408571.html?algo_exp_id=9769aace-deb8-4a77-adb2-33b1a7cded80-0&pdp_ext_f=%7B%22order%22%3A%22115%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!CAD!3.70!1.45!!!2.53!0.99!%402101ef7017415071275468146e30dd!12000016510356162!sea!CA!0!ABX&curPageLogUid=9qJ2YGt4stqE&utparam-url=scene%3Asearch%7Cquery_from%3A
 	$1.45
 	SHAFT COMMUTATOR
+
+
+SHAFT TORQUE: (Upper limit)
+	Tension stress in shaft = (Applied torque) * (shaft radius) / (Polar Moment of Inertia)	
+	Polar Moment of Inertia ~= 0.0127 m^4
+	limit shear stress to < 70MPa for steel bar
+	Torque from propeller  = ???
+	shaft radius = 0.003 m
+
+PROPELLER TORQUE: (approx, at normal operation)
+	Torque = Power (in Watts) / (angular velocity)
+		angular velocity == 2pi/60 * RPM
+	We expect an approx Wattage ~= 45W
+	Using Torque from sequential calculation; we have an approx RPM of 550
 	
+	OR
+
+	Torque =  Thrust * Radius 
+		Approx radius: 	0.04 m
+		Thrust: ~20N
+
+	 	Torque ~= 0.8Nm
+
+Shaft Torque = 0.8    Nm 
+Shaft Radius = 0.003  m 
+Polar Mom In = 0.0127 m^4
+	Tension in shaft: 0.18897
+	Well below the upper limit of 70
+	3mm shaft safe to use
