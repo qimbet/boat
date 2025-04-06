@@ -80,7 +80,7 @@ SEALING METHODS:
 		- Mechanical Seals are made of different materials. 
 			- Carbon: Good for clean liquids
 			- Silicon Carbide: 9.5 Mohs, can be used among abrasives
-			- Ceramic: brittle
+			- Ceramic: brittle, thermally & chemically inert
 			- Aluminum Oxide: 9 Mohs  
 	-Bushings 
 		
