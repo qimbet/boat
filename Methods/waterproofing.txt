@@ -1,0 +1,11 @@
+To make a 3d print watertight: 
+
+- Increase flow rate (~%150)
+- Larger layer height
+- Wider nozzle diameter
+	- 0.6mm, 1mm, or similar
+- Thicker wall diameters
+https://3dprinterly.com/how-to-make-your-3d-prints-waterproof-airtight/
+
+
+Acetone vapour smoothing for ABS

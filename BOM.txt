@@ -4,9 +4,25 @@
         TOTAL BOM:
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-	MOTOR 	-	Y
-	BATTERY - 	Y
+Drive train: 
 	90 COMMUTATOR - Y
+	Drive shaft
+	Shaft couplings (x2?)
+	Shaft joiners (x2?)
+
+Drive Train enclosure:
+	Aluminum sheet (how thick?)(how long/wide?) (fit to commutator)
+	Rubber sheet; same size as sheet metal	
+Power:
+	Battery, 12v~9Ah
+	Buck Converter
+	A handful of meters of insulated wire -- multiple colours ideal
+	Battery plugs -- can use banana plugs, etc
+	
+Propulsion:
+	Propeller
+	Motor	
+	Capacitor? (good form to include)
 
 
 ---------------------------------------------------------------------

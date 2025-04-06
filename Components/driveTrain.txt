@@ -77,9 +77,14 @@ SEALING METHODS:
 		- High precision! 
 		- Reduced friction, no measurable leaks
 		- Higher demands on cooling. Little room for error. Prone to cascading failure	 
-		- Expensive as hell lol
+		- Mechanical Seals are made of different materials. 
+			- Carbon: Good for clean liquids
+			- Silicon Carbide: 9.5 Mohs, can be used among abrasives
+			- Ceramic: brittle
+			- Aluminum Oxide: 9 Mohs  
 	-Bushings 
-
+		
+	
 See also: double-seal technology
 
 UNDERWATER MOTOR: 
