@@ -1,0 +1,91 @@
+
+---------------------------------------------------------------------
+
+        TOTAL BOM:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Drive train: 
+	Drive shaft
+	Shaft coupling 
+	Shaft joiners 
+
+Power:
+	Battery, 12v~9Ah
+	Buck Converter
+	A handful of meters of insulated wire -- multiple colours ideal
+	Battery plugs -- can use banana plugs, etc
+	
+Propulsion:
+	Propeller
+	Motor	
+	Capacitor? (good form to include)
+
+---------------------------------------------------------------------
+
+        MOTOR:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requirements:
+	Output 37.5W
+
+https://www.aliexpress.com/item/1005003274705386.html?algo_exp_id=ef9541eb-bf3a-420a-96fe-011a17c7e986-10&pdp_ext_f=%7B%22order%22%3A%2216%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!CAD!13.64!4.
+
+^ RS550 VC
+https://www.foneacc-motion.com/Product/Johnson-Electric-RS-550-Motor-Replacement-Motor-12V-21000-RPM-High-Speed-550-555-Size-DC-Motor.html
+
+Ideal not not have spokes on motor -- we can buy shaft couplings in bulk, & they will be needed to interface between propeller and commutator
+	These are probably cheaper/more efficient/practical than installing a 1:1 gear translator 
+
+---------------------------------------------------------------------
+
+        BATTERY:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requirements:
+	12V (or high enough storage capacity to warrant the transformer)
+
+$50
+https://www.canadiantire.ca/en/pdp/mk-12-volt-9ah-sla-battery-f2-terminal-0102072p.html
+	
+	SLA battery
+	Parameters: SLA, 12V, >9 Ah
+
+---------------------------------------------------------------------
+
+        DRIVE TRAIN:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requirements: 4mm shaft, Corrosion-resistance for submerged parts
+ 
+https://www.aliexpress.com/item/1005008494248699.html?algo_exp_id=0c67debd-60e9-4768-94b3-984e4f94be1c-9&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!CAD!21.99!21.99!!!108.54!108.54!%40!12000045395567765!sea!CA!0!ABX&curPageLogUid=gLgDndzaYLTH&utparam-url=scene%3Asearch%7Cquery_from%3A#nav-specification
+	$20 - 90 degree commutator, 4mm shaft
+
+https://www.aliexpress.com/item/1005001538408571.html?algo_exp_id=9769aace-deb8-4a77-adb2-33b1a7cded80-0&pdp_ext_f=%7B%22order%22%3A%22115%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!CAD!3.70!1.45!!!2.53!0.99!%402101ef7017415071275468146e30dd!12000016510356162!sea!CA!0!ABX&curPageLogUid=9qJ2YGt4stqE&utparam-url=scene%3Asearch%7Cquery_from%3A
+	$2 - linear commutator, 4x4 Blue
+
+https://www.aliexpress.com/item/1005006293171727.html?algo_exp_id=e8aecfbd-e0db-46d6-a6f6-bea81419f96e-0&pdp_ext_f=%7B%22order%22%3A%224040%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!CAD!10.77!1.46!!!7.29!0.98!%402103205117420890745668033e8929!12000036638889805!sea!CA!0!ABX&curPageLogUid=8avkDQak2vFf&utparam-url=scene%3Asearch%7Cquery_from%3A
+	$2 - 4mm stainless steel shaft, length TBD
+
+https://www.aliexpress.com/item/1005005934414878.html?algo_exp_id=79bf3509-1048-4bd4-b1d0-30ef501cba86-9&pdp_ext_f=%7B%22order%22%3A%22330%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!CAD!7.71!1.46!!!37.85!7.17!%402101c72a17420893074997079e2b9b!12000034915883962!sea!CA!0!ABX&curPageLogUid=6qGLdIbErXKA&utparam-url=scene%3Asearch%7Cquery_from%3A	
+	$2 each - Driveshaft, 4mm - 4mm, length TBD
+
+---------------------------------------------------------------------
+
+        PROPELLER:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requirements: 4mm Shaft
+
+https://www.aliexpress.com/item/1005007370772048.html?pvid=450ecba9-c682-45e8-91d3-c7c8c6ce39c5&_t=gps-id%3ApcDetailTopMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3A450ecba9-c682-45e8-91d3-c7c8c6ce39c5%2Ctpp_buckets%3A668%232846%238107%231934&pdp_ext_f=%7B%22order%22%3A%2234%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%7D&pdp_npi=4%40dis!CAD!11.48!10.68!!!56.66!52.71!%40!12000040465555682!rec!CA!!ABXZ&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A
+	$13 - Copper 5-blade propeller, Positive 33mm
+
+---------------------------------------------------------------------
+
+ 	WATERPROOFING:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Requirements: 
+
+https://www.canadiantire.ca/en/pdp/motomaster-marine-grease-water-resistant-formula-85-g-0280857p.html
+	$6 - Waterproof grease, 85g
+
