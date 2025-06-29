@@ -80,7 +80,7 @@ SECOND PROJECTION
 
 	SUM: 54w
 	Round to 55W @ 12V	
-	Drawing 4.5A/hour
+	Drawing 4.5Ah/hour
 
 	------------------------------------
 
@@ -94,3 +94,35 @@ FIRST PROJECTION
 		Assuming a current load of 1 amp, DC/DC conversion
 		1 battery:   1.5 A = 10.5V
 		2 batteries: 4.5 A = 31.5V
+
+NOTE: 
+	https://poweringautos.com/how-many-amps-can-a-sla-battery-discharge/
+	SLA batteries typicallyl have an effective power delivery of 50-70% of their rated capacity
+	Peukert's Law states that SLA batteries have less capacity as rate of discharge increases
+		C = I^k * t
+		Where:
+			C = Capacity at 1 amp; (Ah)
+			I = Discharge current (A)
+			t = time to discharge (h)
+			k = Peukert Constant
+		Note: For SLA batteries, k ~= 1.6
+		Generally, k increases with time
+
+		Alternatively; 
+		t = H * (C / IH)^k
+			H = rated discharge time
+			C = Rated capacity at discharge rate
+			I = Actual discharge current
+			k = Peukert constant
+			t = actual discharge time
+
+	Note that Peukert's Law does not indicate battery power loss -- only that the power is not available _at the time of use_. Leaving the battery to 'settle' will make the previously inaccessible energy useable. 
+
+	Typically, SLA batteries can handle 20% of their Amp-hour rating as a sustained output current
+	Expect 200-300 full-discharge cycles; partial discharges are better for battery life
+	Batteries are more efficient in many regards as size scales upwards -- thermal stability, discharge rates, capacity, cycle life
+
+CAUTION: 
+	Dischaging SLA batteries below 50% can cause permanent damage; reducing power capacity
+	Do not charge batteries too quickly! Thermal stress can damage storage capacity
+	Frequent deep discharges are bad for the battery; reducing lifespan

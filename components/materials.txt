@@ -1,0 +1,11 @@
+Any material set for use in seawater should be brass, bronze, A4 stainless steel, titanium, or (possible) aluminum. 
+
+There are other materials (e.g. gold, nickel alloys, etc.) that also perform well in saltwater environemnts, but these are usually associated with budget constraints. 
+
+Titanium is ideal -- strong & corrosion-resistant; but expensive
+Anodized aluminum is better than raw aluminum. 
+
+https://www.bluetrailengineering.com/post/choosing-materials-for-use-in-the-ocean
+
+Plastics are relatively ocean-safe. Use these when possible.
+ABS is water resistant, inert, and is bondable through epoxies. 

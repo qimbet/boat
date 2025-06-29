@@ -3,7 +3,7 @@ STANDARD SIZING:
 	------------------------------------
 	101.6mm STANDARD SQUARE SURFACE 
 	77  mm 	MOUNT CIRCLE RADIUS
-	6.5 mm  BOLT DIAMETER
+	6.5 mm  BOLT DIAMETER -- M6 bolts
 --------------------------------------------
 
 BOAT SIZING:
